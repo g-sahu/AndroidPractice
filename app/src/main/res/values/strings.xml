@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidPractice</string>
+    <string name="search_hint">Search songs</string>
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="track_title">Track Title</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="album_name">Album Name</string>
+    <string name="playing_from">Playing From</string>
+    <string name="music_library">Music Library</string>
+    <string name="time_zero">00:00</string>
+    <string name="title_activity_google_maps">Map</string>
+</resources>
